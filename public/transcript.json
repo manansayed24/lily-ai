@@ -1,0 +1,42 @@
+[
+  {
+    "id": "k0idWB5",
+    "role": "assistant",
+    "content": "Hey Hi Welcome to Linx Youer Interview Begains please Say Start When ready "
+  },
+  {
+    "role": "user",
+    "content": "Starco.",
+    "id": "pGZUOJP"
+  },
+  {
+    "id": "BDOQLwq",
+    "createdAt": "2024-10-22T14:05:24.595Z",
+    "content": "I'm sorry, I didn't quite catch that. Could you please repeat or rephrase your response?",
+    "role": "assistant"
+  },
+  {
+    "role": "user",
+    "content": "Start.",
+    "id": "dvLct8j"
+  },
+  {
+    "id": "ZJxuC9P",
+    "createdAt": "2024-10-22T14:05:33.394Z",
+    "content": "Great! Let's get started with the interview. How can I assist you today?",
+    "role": "assistant"
+  },
+  {
+    "role": "user",
+    "content": "Skip.",
+    "id": "Ih8bYil"
+  },
+  {
+    "id": "4XbeT2g",
+    "createdAt": "2024-10-22T14:05:48.036Z",
+    "content": "Sure, if you'd like to skip ahead or have a specific question in mind, feel free to let me know! How",
+    "role": "assistant"
+  }
+]le": "assistant"
+  }
+]
